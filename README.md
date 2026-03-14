@@ -4,6 +4,7 @@ Aplicación desarrollada con Laravel que implementa autenticación y control de 
 
 ## Usuarios y Passwords
 Generados con el Seeder
+php artisan migrate --seed
 
 ## Roles
 
